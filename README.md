@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://github.com/yutkat/coolwind0202/">
+  <a href="https://github.com/coolwind0202/coolwind0202">
     <img src="https://komarev.com/ghpvc/?username=coolwind0202" alt="coolwind0202" />
   </a>
   <a href="http://twitter.com/shidoro_onn">
