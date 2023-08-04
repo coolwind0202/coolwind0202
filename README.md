@@ -1,16 +1,40 @@
+<p align="left">
+  <a href="https://github.com/yutkat/coolwind0202/">
+    <img src="https://komarev.com/ghpvc/?username=coolwind0202" alt="coolwind0202" />
+  </a>
+  <a href="http://twitter.com/shidoro_onn">
+    <img height="20" src="https://img.shields.io/twitter/follow/shidoro_onn?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/coolwind0202">
+    <img height="20" src="https://img.shields.io/github/followers/coolwind0202?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+[![coolwind0202's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolwind0202&count_private=true&show_icons=true&theme=radical)](https://github.com/coolwind0202/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolwind0202&layout=compact&show_icons=true&theme=radical)](https://github.com/coolwind0202/github-readme-stats)
+
+
 ### Hi there 👋
+
 
 <!--
 **coolwind0202/coolwind0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<!--
+- 🔭 I’m currently working on ...
+-->
+
+- 🌱 I’m currently learning ...
+  - AtCoder
+- 💬 Ask me about ...
+  - discord.py / discord.js
+  - React
+- 📫 How to reach me: ...
+  - https://twitter.com/shidoro_onn
+
+
+
