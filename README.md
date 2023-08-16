@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   - discord.py / discord.js
   - React
 - 📫 How to reach me: ...
-  - https://twitter.com/shidoro_onn
+  - https://twitter.com/t6o_o6t
 
 
 
