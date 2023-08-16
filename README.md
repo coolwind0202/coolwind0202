@@ -2,8 +2,8 @@
   <a href="https://github.com/coolwind0202/coolwind0202">
     <img src="https://komarev.com/ghpvc/?username=coolwind0202" alt="coolwind0202" />
   </a>
-  <a href="http://twitter.com/shidoro_onn">
-    <img height="20" src="https://img.shields.io/twitter/follow/shidoro_onn?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/t6o_o6t">
+    <img height="20" src="https://img.shields.io/twitter/follow/t6o_o6t?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/coolwind0202">
     <img height="20" src="https://img.shields.io/github/followers/coolwind0202?label=follow&logo=github&style=flat" />
