@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning ...
-  - AtCoder
+  - Ruby on Rails
 - 💬 Ask me about ...
   - discord.py / discord.js
-  - React
+  - React / Next.js
 - 📫 How to reach me: ...
   - https://twitter.com/t6o_o6t
 
