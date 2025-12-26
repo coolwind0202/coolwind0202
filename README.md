@@ -10,9 +10,9 @@
   </a>
 </p>
 
-[![coolwind0202's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolwind0202&count_private=true&show_icons=true&theme=radical)](https://github.com/coolwind0202/github-readme-stats)
+[![coolwind0202's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolwind0202&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolwind0202&layout=compact&show_icons=true&theme=radical)](https://github.com/coolwind0202/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolwind0202&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Hi there 👋
