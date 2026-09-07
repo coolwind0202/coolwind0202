@@ -10,31 +10,26 @@
   </a>
 </p>
 
-[![coolwind0202's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolwind0202&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 学歴 / Education
+- 2023.04 - 2027.03（予定） 公立千歳科学技術大学 / Chitose Institute of Science and Technology
+  - 学士（理工学） / Bachelor（Science and engineering）
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolwind0202&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 興味 / Interests:
+- Software Development
+  - Web
+    - TypeScript / JavaScript / React / Next.js
+    - Ruby on Rails
+  - Game: C# / Unity
+  - Others:
+    - C++
+    - ML: Python / PyTorch
+- CTF (Pwn / Rev)
+- Computer Network
+  - Containerlab
+  - Ansible
+- Kubernetes
+  - kube-scheduler
+ 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=coolwind0202&hide_rank=true&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=coolwind0202&hide_rank=true&show_icons=true&include_all_commits=true)
 
-
-### Hi there 👋
-
-
-<!--
-**coolwind0202/coolwind0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-<!--
-- 🔭 I’m currently working on ...
--->
-
-- 🌱 I’m currently learning ...
-  - Ruby on Rails
-- 💬 Ask me about ...
-  - discord.py / discord.js
-  - React / Next.js
-- 📫 How to reach me: ...
-  - https://twitter.com/t6o_o6t
-
-
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=coolwind0202&layout=compact&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=coolwind0202&layout=compact&langs_count=4)
