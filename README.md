@@ -12,7 +12,6 @@
 
 ### 学歴 / Education
 - 2023.04 - 2027.03（予定） 公立千歳科学技術大学 / Chitose Institute of Science and Technology
-  - 学士（理工学） / Bachelor（Science and engineering）
 
 ### 興味 / Interests:
 - Software Development
